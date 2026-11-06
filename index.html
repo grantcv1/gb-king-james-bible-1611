@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>King James Bible, 1611</title>
+<meta name="description" content="The King James Bible of 1611, with the Apocrypha, in Akoma Ntoso XML styled by CSS to look like the first printing.">
+<style>
+:root { --ground: #26282b; --panel: #f5f5f2; --ink: #14171a; --muted: #4f5660; --accent: #1f4e79; --blue: #0472C1; --rule: #c8c8c2; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--ground); color: var(--ink); font: 18px/1.6 Georgia, "Times New Roman", serif; }
+main { max-width: 760px; margin: 48px auto; padding: 40px clamp(20px, 5vw, 48px); background: var(--panel); }
+h1 { font-size: clamp(30px, 6vw, 42px); line-height: 1.15; margin: 0 0 16px; font-weight: 400; }
+h2 { font-size: 25px; line-height: 1.25; margin: 40px 0 8px; font-weight: 400; }
+h3 { font-size: 19px; margin: 24px 0 6px; font-weight: 700; }
+p, ul, ol { margin: 0 0 14px; }
+li { margin-bottom: 6px; }
+a { color: var(--accent); }
+code { font: .86em ui-monospace, Menlo, Consolas, monospace; overflow-wrap: anywhere; }
+pre { margin: 0 0 14px; padding: 12px 14px; background: #e6e6e0; overflow-x: auto; }
+pre code { font-size: 14px; line-height: 1.5; overflow-wrap: normal; }
+.scroll { overflow-x: auto; margin: 0 0 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 16px; line-height: 1.45; }
+th, td { text-align: left; vertical-align: top; padding: 8px 12px 8px 0; border-bottom: 1px solid var(--rule); }
+th { font-weight: 700; }
+.view { display: inline-block; margin: 12px 0 8px; padding: 12px 20px; background: var(--blue); color: #fff; text-decoration: none; border-radius: 4px; }
+.view:hover, .view:focus-visible { background: #035fa2; }
+footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--rule); color: var(--muted); font-size: 15px; }
+.books { columns: 3 150px; column-gap: 24px; margin: 0 0 14px; }
+.books a { display: block; }
+</style>
+</head>
+<body>
+<main>
+  <h1>The King James Bible, 1611, in Akoma Ntoso</h1>
+  <p>The Holy Bible as printed by Robert Barker in London in 1611, in its original spelling, with the Apocrypha. There are 80 books, 1,355 chapters and 36,702 verses here, each book in its own Akoma Ntoso file.</p>
+  <a class="view" href="genesis.xml">Begin at Genesis</a> <a class="view" href="king-james-bible-1611.xml">View the title page</a>
+  <h2>The books</h2>
+  <h3>The Old Testament</h3>
+  <div class="books"><a href="genesis.xml">Genesis</a><a href="exodus.xml">Exodus</a><a href="leviticus.xml">Leviticus</a><a href="numbers.xml">Numbers</a><a href="deuteronomy.xml">Deuteronomy</a><a href="joshua.xml">Joshua</a><a href="judges.xml">Judges</a><a href="ruth.xml">Ruth</a><a href="1-samuel.xml">1 Samuel</a><a href="2-samuel.xml">2 Samuel</a><a href="1-kings.xml">1 Kings</a><a href="2-kings.xml">2 Kings</a><a href="1-chronicles.xml">1 Chronicles</a><a href="2-chronicles.xml">2 Chronicles</a><a href="ezra.xml">Ezra</a><a href="nehemiah.xml">Nehemiah</a><a href="esther.xml">Esther</a><a href="job.xml">Job</a><a href="psalms.xml">Psalms</a><a href="proverbs.xml">Proverbs</a><a href="ecclesiastes.xml">Ecclesiastes</a><a href="song-of-solomon.xml">Song of Solomon</a><a href="isaiah.xml">Isaiah</a><a href="jeremiah.xml">Jeremiah</a><a href="lamentations.xml">Lamentations</a><a href="ezekiel.xml">Ezekiel</a><a href="daniel.xml">Daniel</a><a href="hosea.xml">Hosea</a><a href="joel.xml">Joel</a><a href="amos.xml">Amos</a><a href="obadiah.xml">Obadiah</a><a href="jonah.xml">Jonah</a><a href="micah.xml">Micah</a><a href="nahum.xml">Nahum</a><a href="habakkuk.xml">Habakkuk</a><a href="zephaniah.xml">Zephaniah</a><a href="haggai.xml">Haggai</a><a href="zechariah.xml">Zechariah</a><a href="malachi.xml">Malachi</a></div>
+  <h3>The Apocrypha</h3>
+  <div class="books"><a href="1-esdras.xml">1 Esdras</a><a href="2-esdras.xml">2 Esdras</a><a href="tobit.xml">Tobit</a><a href="judith.xml">Judith</a><a href="wisdom-of-solomon.xml">Wisdom of Solomon</a><a href="ecclesiasticus.xml">Ecclesiasticus</a><a href="baruch.xml">Baruch</a><a href="letter-of-jeremiah.xml">Letter of Jeremiah</a><a href="prayer-of-azariah.xml">Prayer of Azariah</a><a href="susanna.xml">Susanna</a><a href="bel-and-the-dragon.xml">Bel and the Dragon</a><a href="prayer-of-manasseh.xml">Prayer of Manasseh</a><a href="1-maccabees.xml">1 Maccabees</a><a href="2-maccabees.xml">2 Maccabees</a></div>
+  <h3>The New Testament</h3>
+  <div class="books"><a href="matthew.xml">Matthew</a><a href="mark.xml">Mark</a><a href="luke.xml">Luke</a><a href="john.xml">John</a><a href="acts.xml">Acts</a><a href="romans.xml">Romans</a><a href="1-corinthians.xml">1 Corinthians</a><a href="2-corinthians.xml">2 Corinthians</a><a href="galatians.xml">Galatians</a><a href="ephesians.xml">Ephesians</a><a href="philippians.xml">Philippians</a><a href="colossians.xml">Colossians</a><a href="1-thessalonians.xml">1 Thessalonians</a><a href="2-thessalonians.xml">2 Thessalonians</a><a href="1-timothy.xml">1 Timothy</a><a href="2-timothy.xml">2 Timothy</a><a href="titus.xml">Titus</a><a href="philemon.xml">Philemon</a><a href="hebrews.xml">Hebrews</a><a href="james.xml">James</a><a href="1-peter.xml">1 Peter</a><a href="2-peter.xml">2 Peter</a><a href="1-john.xml">1 John</a><a href="2-john.xml">2 John</a><a href="3-john.xml">3 John</a><a href="jude.xml">Jude</a><a href="revelation.xml">Revelation</a></div>
+  <h2>Why this document</h2>
+  <p>James I ordered this translation after the Hampton Court Conference of 1604, and it became one of the most influential books in the English language. It isn&rsquo;t a law, so it isn&rsquo;t an intended use of Akoma Ntoso. It does test the standard at scale, with tens of thousands of short, numbered provisions.</p>
+  <h2>How it looks</h2>
+  <p>The stylesheet aims for the feel of the first printing: blackletter type, two ruled columns, a printed head-piece and a large initial at the start of each chapter. It is a suggestion of that page, not a facsimile. The long s is produced by the font, so the XML keeps an ordinary s. The page is the XML itself, styled by CSS alone, with no script and no transformation to HTML.</p>
+  <h2>What the markup shows</h2>
+  <ul>
+    <li><strong>Structure:</strong> Each book is a <code>doc</code>. Chapters and verses are nested <code>hcontainer</code> elements, because Akoma Ntoso has no verse element.</li>
+    <li><strong>Collection:</strong> <a href="king-james-bible-1611.xml">king-james-bible-1611.xml</a> is a <code>documentCollection</code> that holds the title page and points to all 80 books.</li>
+  </ul>
+  <h2>Status of the text</h2>
+  <ul>
+    <li><strong>Source:</strong> The text comes from the <a href="https://github.com/aruljohn/Bible-kjv-1611">aruljohn/Bible-kjv-1611</a> repository. It hasn&rsquo;t been checked against a scan of the 1611 printing, and errors in that source are carried over.</li>
+    <li><strong>Check:</strong> The 66 books of the Old and New Testaments have the same chapter and verse numbering as the modern King James text.</li>
+    <li><strong>Missing:</strong> The source has no Rest of Esther, which the 1611 Apocrypha includes. So this copy has 13 of the Apocrypha&rsquo;s 14 books, with the Epistle of Jeremy and the Song of the Three Children as separate files under later names. Two verses, Ecclesiasticus 1:7 and 17:5, are empty in the source and are left empty here.</li>
+    <li><strong>Not included:</strong> The dedication, the translators&rsquo; preface, the calendars, the genealogies, the chapter summaries and the marginal notes. Book names are the modern ones from the source, not the 1611 titles. Words the 1611 printing set in roman type, to mark them as supplied by the translators, aren&rsquo;t marked.</li>
+  </ul>
+  <h2>How it was made</h2>
+  <p>The XML was generated by Claude for Grant Vergottini, and validates against the Akoma Ntoso 2.0 schema. It isn&rsquo;t an authoritative text.</p>
+  <h2>Files</h2>
+  <ul>
+    <li><a href="king-james-bible-1611.css">king-james-bible-1611.css</a>: the stylesheet that renders every book</li>
+    <li><a href="README.md">README.md</a>: sources and notes</li>
+  </ul>
+  <footer>Published by <a href="https://grantvergottini.com/">Grant Vergottini</a>.</footer>
+</main>
+</body>
+</html>

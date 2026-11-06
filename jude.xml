@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/jude/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/jude"/><FRBRalias value="Jude" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/jude/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/jude/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/jude/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/jude/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="2AD8438D-0C91-5FDC-9AA2-B5A429300C9D" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="B8FB01F7-E5E8-59A0-9C84-D904808A6D76" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="BFF3D765-3AF1-58AA-A612-1040313A99AA" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="60D80C8F-D52A-5481-9C9F-EA125DCC86DC" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>Jude</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="F0DE5B1A-B08A-5B1D-AC2F-81C7CE2719CF"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="87DDF356-2157-5049-B5FA-5890C34E0606"><num>1</num><content><p>Iude the seruant of Iesus Christ, and brother of Iames, to them that are sanctified by God the Father, and preserued in Iesus Christ, &amp; called:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="FD8CDF16-DA0A-59F9-9F3D-F72DD75F67E8"><num>2</num><content><p>Mercie vnto you, and peace, and loue be multiplied.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="EB1FC6C0-FC99-5AA8-AAA0-262E97569D27"><num>3</num><content><p>Beloued, when I gaue all diligence to write vnto you of the common saluation: it was needfull for mee to write vnto you, and exhort you that ye should earnestly contend for the faith which was once deliuered vnto the Saints.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="FEAA5DAB-7725-5FB9-A37D-185757B537F4"><num>4</num><content><p>For there are certaine men crept in vnawares, who were before of olde ordained to this condemnation, vngodly men, turning the grace of our God into lasciuiousnesse, and denying the onely Lord God, &amp; our Lord Iesus Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="FC2A0AED-8100-5C2A-9461-6A6371ADCE77"><num>5</num><content><p>I will therefore put you in remembrance, though ye once knew this, how that the Lord hauing saued the people out of the land of Egypt afterward destroied them that beleeued not.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="CC4293D2-85F1-52DA-B437-6091C13B7A2E"><num>6</num><content><p>And the Angels which kept not their first estate, but left their own habitation, he hath reserued in euerlasting chaines vnder darkenesse, vnto the iudgement of the great day.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="8758796A-ECAA-5C31-9A90-B74E29A14A78"><num>7</num><content><p>Euen as Sodom and Gomorrha, and the cities about them, in like maner giuing themselues ouer to fornication, and going after strange flesh, are set forth for an example, suffring the vengeance of eternall fire.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="AF5C34D4-8A94-55EF-8913-3BC12A555B73"><num>8</num><content><p>Likewise also these filthy dreamers defile the flesh, despise dominion, and speake euill of dignities.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="0FD5F437-AA8C-5D43-B7AF-4866BF0F7684"><num>9</num><content><p>Yet Michael the Archangel, when contending with the deuill, he disputed about the body of Moses, durst not bring against him a railing accusation, but said, The Lord rebuke thee.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="A468814C-BD08-5009-8659-F1A939CE45A4"><num>10</num><content><p>But these speake euill of those things, which they know not: but what they knowe naturally, as brute beastes, in those things they corrupt themselues.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="75C74D80-74B5-5D6A-A07B-7610B71962A0"><num>11</num><content><p>Wo vnto them, for they haue gone in the way of Kain, and ranne greedily after the errour of Balaam, for reward, and perished in the gainsaying of Core.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="C2982C90-C558-513C-9176-7A95B567202D"><num>12</num><content><p>These are spottes in your feasts of charitie, when they feast with you, feeding themselues without feare: cloudes they are without water, caried about of winds, trees whose fruit withereth, without fruit, twise dead, plucked vp by the rootes.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="D0DEF6B4-770B-5AD5-A964-85327FA2C099"><num>13</num><content><p>Raging waues of the sea, foming out their owne shame, wandring stars, to whom is reserued the blacknesse of darkenesse for euer.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_14" GUID="136BD51F-4D1C-5F41-96F0-D485DC44DC5F"><num>14</num><content><p>And Enoch also, the seuenth from Adam, prophesied of these, saying, Behold, the Lord commeth with ten thousands of his Saints,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_15" GUID="4CB63542-B0F1-5325-AADA-62306E89D2B5"><num>15</num><content><p>To execute iudgement vpon all, and to conuince all that are vngodly among them, of all their vngodly deeds which they haue vngodly committed, and of all their heard speaches, which vngodly sinners haue spoken against him.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_16" GUID="E26BC271-86A6-5E2A-8CB3-17B7D470459B"><num>16</num><content><p>These are murmurers complainers, walking after their owne lustes, and their mouth speaketh great swelling wordes, hauing mens persons in admiration because of aduantage.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_17" GUID="84DC0FFD-081B-58DD-8418-1B5B7B13A7C0"><num>17</num><content><p>But beloued, remember yee the words, which were spoken before of the Apostles of our Lord Iesus Christ:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_18" GUID="27A4F5A7-8803-50DE-BA67-8F4696F439ED"><num>18</num><content><p>How that they tolde you there should be mockers in the last time, who should walke after their own vngodly lustes.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_19" GUID="45CEC1C5-BB08-5E6A-8C04-05D61E14B88E"><num>19</num><content><p>These be they who separate themselues, sensual, hauing not the spirit.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_20" GUID="39F66831-B41B-5CD8-819F-B7BDB9EAB476"><num>20</num><content><p>But yee beloued, building vp your selues on your most holy faith, praying in the holy Ghost,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_21" GUID="D50D5D24-3F35-5746-B4D2-B5675E8F1BA4"><num>21</num><content><p>Keepe your selues in the loue of God, looking for the mercy of our Lord Iesus Christ vnto eternall life.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_22" GUID="290418AB-A411-52E6-AEC2-78E61A6FEE65"><num>22</num><content><p>And of some haue compassion, making a difference:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_23" GUID="C02FAC66-1671-51E0-B6F5-2DAB547655D1"><num>23</num><content><p>And others saue with feare, pulling them out of the fire: hating euen the garment spotted by the flesh.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_24" GUID="2FC3FA8C-9335-5E57-B377-6CCFF15A892A"><num>24</num><content><p>Now vnto him that is able to keepe you from falling, and to present you faultlesse before the presence of his glory with exceeding ioy,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_25" GUID="D72B5C47-F0B2-5543-9C0A-720D7A613C12"><num>25</num><content><p>To the onely wise God our Sauiour, be glory and maiestie, dominion and power, now and euer. Amen.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

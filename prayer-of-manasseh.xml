@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh"/><FRBRalias value="Prayer of Manasseh" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/prayer-of-manasseh/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="AAEB576E-BD9A-51BF-821C-66BD2908E59A" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="3786E8BA-5BDA-5511-878E-A67B7FB78B5A" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="CDCA9DD9-C50A-5070-AC53-88188778C684" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="33BAAD61-9DF4-5564-96D3-FF5126BA832F" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The Apocrypha</p><p><docTitle>Prayer of Manasseh</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="161B185E-592A-57CB-B0AD-4B1B2B75211B"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="862026E7-0ECD-5095-9745-43517BD6F9BF"><num>1</num><content><p>O Lord, Almightie God of our Fathers, Abraham, Isaac, and Iacob, and of their righteous seed: who hast made heauen and earth, with all the ornament thereof: who hast bound the Sea by the word of thy Commandement: who hast shut vp the deepe, and sealed it by thy terrible and glorious Name, whome all men feare, and tremble before thy power: for the Maiestie of thy glory cannot bee borne, and thine angry threatning towards sinners is importable: but thy mercifull promise is vnmeasurable and vnsearchable: for thou art the most High Lord, of great compassion, long suffering, very mercifull, and repentest of the euils of men. Thou, O Lord, according to thy great goodnesse hast promised repentance, and forgiuenesse to them that haue sinned against thee: and of thine infinite mercies hast appointed repentance vnto sinners that they may be saued. Thou therefore, O Lord, that art the God of the iust, hast not appointed repentance to the iust, as to Abraham, and Isaac, and Iacob, which haue not sinned against thee: but thou hast appointed repentance vnto me that am a sinner: for I haue sinned aboue the number of the sands of the Sea. My transgressions, O Lord, are multiplied: my transgressions are multiplied, and I am not worthy to behold and see the height of heauen, for the multitude of mine iniquitie. I am bowed downe with many yron bands, that I cannot lift vp mine head, neither haue any release: For I haue prouoked thy wrath, and done euill before thee, I did not thy will, neither kept I thy Commandements: I haue set vp abominations, and haue multiplied offences. Now therefore I bow the knee of mine heart, beseeching thee of grace: I haue sinned, O Lord, I haue sinned and I acknowledge mine iniquities: wherefore I humbly beseech thee, forgiue me, O Lord, forgiue me, and destroy me not with mine iniquities. Be not angry with me for euer, by reseruing euill for me, neither condemne mee into the lower parts of the earth. For thou art the God, euen the God of them that repent: and in me thou wilt shew all thy goodnesse: for thou wilt saue me that am vnworthy, according to thy great mercie. Therefore I will praise thee for euer all the dayes of my life: for all the powers of the heauens doe praise thee, and thine is the glory for euer and euer, Amen.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

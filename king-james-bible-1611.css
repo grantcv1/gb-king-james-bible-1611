@@ -1,0 +1,36 @@
+@namespace url("http://docs.oasis-open.org/legaldocml/ns/akn/3.0");
+@font-face{font-family:"KJV Gotisch";src:url(kjv-gotisch.woff2) format("woff2");font-display:swap}
+@font-face{font-family:"KJV Roman";src:url(kjv-roman.woff2) format("woff2");font-display:swap}
+@font-face{font-family:"KJV Initials";src:url(kjv-initials.woff2) format("woff2");font-display:swap}
+akomaNtoso{display:block;max-width:1040px;margin:0 auto;padding:28px 34px 44px;background:#f3ead6;color:#231a10;font:19px/1.22 "KJV Gotisch",serif;font-feature-settings:"calt","liga"}
+meta,identification,references{display:none}
+doc,documentCollection{display:block}
+preface{display:block;text-align:center;margin:0 0 12px}
+preface>p{display:block;margin:0}
+preface>p[class="section"]{font:400 18px/1.3 "KJV Gotisch",serif;margin-bottom:2px}
+preface::before{content:"";display:block;height:44px;margin-bottom:12px;background:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2260%22%20height%3D%2244%22%20viewBox%3D%220%200%2060%2044%22%3E%3Crect%20width%3D%2260%22%20height%3D%2244%22%20fill%3D%22%23231a10%22/%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%23efe3c8%22%20stroke-width%3D%221.6%22%3E%3Cpath%20d%3D%22M0%2022c10-16%2020-16%2030%200s20%2016%2030%200%22/%3E%3Cpath%20d%3D%22M0%2022c10%2016%2020%2016%2030%200s20-16%2030%200%22/%3E%3C/g%3E%3Cg%20fill%3D%22%23efe3c8%22%3E%3Cpath%20d%3D%22M15%2010c3-6%207-6%200-9-7%203-3%203%200%209zM45%2034c3%206%207%206%200%209-7-3-3-3%200-9zM15%2034c-5%202-5%207%200%208%205-1%205-6%200-8zM45%202c-5%202-5%207%200%208%205-1%205-6%200-8z%22/%3E%3Ccircle%20cx%3D%2230%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3C/g%3E%3C/svg%3E") repeat-x center;border:1px solid #231a10}
+docTitle{display:block;font:400 34px/1.15 "KJV Roman",serif;letter-spacing:.04em;text-transform:uppercase}
+mainBody{display:block;column-count:2;column-gap:34px;column-rule:1px solid #231a10;border:3px double #231a10;padding:14px 16px;text-align:justify;hyphens:auto}
+hcontainer{display:block}
+hcontainer[name="chapter"]>num{display:block;break-after:avoid;text-align:center;font:400 17px/1.3 "KJV Roman",serif;letter-spacing:.08em;margin:14px 0 6px}
+hcontainer[name="chapter"]:first-child>num{margin-top:0}
+hcontainer[name="verse"]{display:block;break-inside:auto}
+hcontainer[name="verse"]>num{display:inline;font:400 .68em/1 "KJV Roman",serif;margin-right:.25em;vertical-align:.12em}
+hcontainer[name="verse"]>content,hcontainer[name="verse"]>content>p{display:inline}
+hcontainer[name="verse"]:nth-child(2)>num{display:none}
+hcontainer[name="verse"]:nth-child(2){display:block}
+hcontainer[name="verse"]:nth-child(2)>content{display:block}
+hcontainer[name="verse"]:nth-child(2)>content>p{display:block}
+hcontainer[name="verse"]:nth-child(2)>content>p::first-letter{float:left;font:400 3.1em/.9 "KJV Roman",serif;color:#efe3c8;background:#231a10;padding:.08em .13em .1em;margin:.06em .12em 0 0;border:3px double #efe3c8;outline:1px solid #231a10}
+coverPage{display:block;text-align:center;border:3px double #231a10;padding:46px 40px;margin-bottom:26px;font:400 22px/1.3 "KJV Roman",serif}
+coverPage::before{content:"";display:block;height:44px;margin:-22px 0 30px;background:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2260%22%20height%3D%2244%22%20viewBox%3D%220%200%2060%2044%22%3E%3Crect%20width%3D%2260%22%20height%3D%2244%22%20fill%3D%22%23231a10%22/%3E%3Cg%20fill%3D%22none%22%20stroke%3D%22%23efe3c8%22%20stroke-width%3D%221.6%22%3E%3Cpath%20d%3D%22M0%2022c10-16%2020-16%2030%200s20%2016%2030%200%22/%3E%3Cpath%20d%3D%22M0%2022c10%2016%2020%2016%2030%200s20-16%2030%200%22/%3E%3C/g%3E%3Cg%20fill%3D%22%23efe3c8%22%3E%3Cpath%20d%3D%22M15%2010c3-6%207-6%200-9-7%203-3%203%200%209zM45%2034c3%206%207%206%200%209-7-3-3-3%200-9zM15%2034c-5%202-5%207%200%208%205-1%205-6%200-8zM45%202c-5%202-5%207%200%208%205-1%205-6%200-8z%22/%3E%3Ccircle%20cx%3D%2230%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3Ccircle%20cx%3D%220%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3Ccircle%20cx%3D%2260%22%20cy%3D%2222%22%20r%3D%223%22/%3E%3C/g%3E%3C/svg%3E") repeat-x center;border:1px solid #231a10}
+coverPage p{display:block;margin:10px auto;max-width:640px}
+coverPage docTitle{display:block;font:400 76px/1.05 "KJV Initials",serif;letter-spacing:0;text-transform:none}
+coverPage p[class="tp1"]{font-size:30px}coverPage p[class="tp3"]{font-size:24px}coverPage p[class="tp2b"]{font:400 40px/1.1 "KJV Roman",serif}coverPage p[class="tp4"]{font-style:italic}coverPage p[class="tp6"]{font-size:26px;letter-spacing:.06em}
+docDate{display:inline}
+collectionBody{display:block;column-count:3;column-gap:24px;column-rule:1px solid #231a10;border:3px double #231a10;padding:14px 16px;font:400 17px/1.5 "KJV Roman",serif}
+component{display:block}
+documentRef{display:block}
+documentRef::before{content:attr(showAs)}
+@media (max-width:720px){akomaNtoso{padding:14px 16px 28px;font-size:18px}mainBody{column-count:1;padding:10px 12px}docTitle{font-size:27px}collectionBody{column-count:2}coverPage{padding:28px 16px}coverPage docTitle{font-size:50px}}
+@media print{akomaNtoso{max-width:none}}

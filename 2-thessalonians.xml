@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians"/><FRBRalias value="2 Thessalonians" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-thessalonians/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="C73B6C00-0725-54D0-8A98-0262E9B656D2" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="6BD5E1F1-C01C-56BB-8CBC-29E3EA396AE9" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="AA8A0CB3-5D5A-5941-9AA1-76FB5065872B" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="FDB90D52-AB81-5CEA-8BDF-1EDB6DBA25F4" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>2 Thessalonians</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="6BF612D2-43AF-562A-8F6F-34476A739A62"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="CB59BD1A-6BB5-59A7-85B1-DDF770AE7BA4"><num>1</num><content><p>Paul and Siluanus, and Timotheus vnto the Church of the Thessaloni&amp;#257;s, in God our Father, and the Lord Iesus Christ:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="423E92DC-785B-5DF2-B22C-D8A305EFB642"><num>2</num><content><p>Grace vnto you, and peace from God our Father, and the Lorde Iesus Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="BD580D1C-7CD2-5E2C-BE3D-F2DD830BDB2D"><num>3</num><content><p>Wee are bound to thanke God alwayes for you, brethren, as it is meete, because that your faith groweth exceedingly, and the charitie of euery one of you al towards each other aboundeth:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="DB6C4FE7-DC01-5ABD-92C3-FA09DB54CFD3"><num>4</num><content><p>So that wee our selues glorie in you in the Churches of God, for your patience and faith in all your persecutions and tribulations that yee endure.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="DDD3BC12-BC8C-5066-B733-21408AB54D4E"><num>5</num><content><p>Which is a manifest token of the righteous iudgement of God, that yee may bee counted worthy of the kingdome of God, for which yee also suffer;</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="E4DDCC81-49AF-51C5-838B-8D2E9E2275F5"><num>6</num><content><p>Seeing it is a righteous thing with God to recompence tribulation to them that trouble you:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="2633FEE1-865B-5D4C-B3CF-775499163F31"><num>7</num><content><p>And to you who are troubled, rest with vs, when the Lord Iesus shalbe reuealed from heauen, with his mightie Angels,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="00DDEF58-45E9-5192-87D6-01F686C757E2"><num>8</num><content><p>In flaming fire, taking vengeance on them that know not God, and that obey not the Gospel of our Lorde Iesus Christ,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="8B54BBC0-B8CC-5302-9562-7FF776858A52"><num>9</num><content><p>Who shalbe punished with euerlasting destruction from the presence of the Lord, and from the glory of his power:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="B146B0E8-CEBC-5267-8EAD-47ADA44FC8B0"><num>10</num><content><p>When hee shall come to bee glorified in his Saints, and to bee admired in all them that beleeue (because our testimony among you was beleeued) in that day.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="CA861ACC-74F7-5339-9F16-EF09ABADD81A"><num>11</num><content><p>Wherefore also we pray alwayes for you, that our God would count you worthy of this calling, and fulfill all the good pleasure of his goodnesse, and the worke of faith with power:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="CEC6A79E-25B9-5A5E-8548-94270890D677"><num>12</num><content><p>That the Name of our Lord Iesus Christ may bee glorified in you, and ye in him, according to the grace of our God, and the Lord Iesus Christ.</p></content></hcontainer>
+</hcontainer>
+<hcontainer name="chapter" eId="chp_2" GUID="3F9D46C2-506E-58E6-9FC1-4BE22E3170BC"><num>CHAP. II.</num>
+<hcontainer name="verse" eId="chp_2__vrs_1" GUID="E2205635-A1DF-55E4-A44E-57DB7F5A07A1"><num>1</num><content><p>Now wee beseech you, brethren, by the comming of our Lord Iesus Christ, and by our gathering together vnto him,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_2" GUID="6E0F9E9A-1F94-5005-BD14-60F0DD583AA9"><num>2</num><content><p>That yee bee not soone shaken in minde, or bee troubled, neither by spirit, nor by word, nor by letter, as from vs, as that the day of Christ is at hand,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_3" GUID="48570B7B-ACA3-5D8D-9A7B-D431148D17B7"><num>3</num><content><p>Let no man deceiue you by any meanes, for that day shall not come, except there come a falling away first, and that man of sinne bee reuealed, the sonne of perdition,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_4" GUID="25F753DD-20F9-5509-802A-D5119F87C363"><num>4</num><content><p>Who opposeth and exalteth himselfe aboue all that is called God, or that is worshipped: so that he as God, sitteth in the Temple of God, shewing himselfe that he is God.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_5" GUID="8CC8F368-AC4B-51A8-9BAC-FB6584D0157A"><num>5</num><content><p>Remember yee not, that when I was yet with you, I tolde you these things?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_6" GUID="62FB0C35-9F62-5A1D-94AB-3794CAAD69D9"><num>6</num><content><p>And now yee know what withholdeth, that hee might bee reuealed in his time.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_7" GUID="A2E2D7B3-BB73-5A47-85F2-1D151FAD42E3"><num>7</num><content><p>For the mysterie of iniquitie doth alreadie worke: onely he who now letteth, will let, vntill he be taken out of the way.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_8" GUID="ACDBFE8A-16D2-5FD2-8C93-AAD010C3FF4B"><num>8</num><content><p>And then shall that wicked bee reuealed, whome the Lord shall consume with the spirit of his mouth, and shall destroy with the brightnesse of his comming:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_9" GUID="BBC1AF8E-F160-5508-BC6F-D9A1232025CD"><num>9</num><content><p>Euen him whose comming is after the working of Satan, with all power and signes, and lying wonders,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_10" GUID="5E9226A3-2301-500B-9F4D-79F62691133B"><num>10</num><content><p>And with all deceiueablenesse of vnrighteousnesse, in them that perish: because they receiued not the loue of the trueth, that they might be saued.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_11" GUID="1A2D194F-A5A6-5C6F-9DD5-2744C9EF86B6"><num>11</num><content><p>And for this cause God shall send them strong delusion, that they should beleeue a lye:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_12" GUID="68EEDBD6-BE70-5FB5-8FFD-D7F32EEC84DF"><num>12</num><content><p>That they all might bee damned who beleeued not the trueth, but had pleasure in vnrighteousnes.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_13" GUID="9FF549A7-896C-5CBC-96DA-5A9456E5A37E"><num>13</num><content><p>But we are bound to giue thanks alway to God for you, brethren, beloued of the Lord, because God hath from the beginning chosen you to saluation, through sanctification of the spirit, and beleefe of the trueth,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_14" GUID="37CC7773-B810-5FF5-B49B-2C8068E3D191"><num>14</num><content><p>Whereunto he called you by our Gospel, to the obteining of the glorie of the Lord Iesus Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_15" GUID="989F42C0-E590-5EAB-BA14-0CEC63A5C103"><num>15</num><content><p>Therefore, brethren, stand fast, and hold the traditions which yee haue beene taught, whether by word or our Epistle.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_16" GUID="D6474D57-A0D6-5153-A257-E86A93C35E35"><num>16</num><content><p>Now our Lorde Iesus Christ himselfe, and God euen our Father, which hath loued vs, and hath giuen vs euerlasting consolation, and good hope through grace,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_17" GUID="44588340-34F0-5B71-83B4-28093CF236BC"><num>17</num><content><p>Comfort your hearts, and stablish you in euery good word and worke.</p></content></hcontainer>
+</hcontainer>
+<hcontainer name="chapter" eId="chp_3" GUID="BD0679AB-8580-57E7-A58E-194D14AE8892"><num>CHAP. III.</num>
+<hcontainer name="verse" eId="chp_3__vrs_1" GUID="9979C81E-5DC4-5E79-9201-7C711CB74DD8"><num>1</num><content><p>Finally, brethren, pray for vs, that the word of the Lord may haue free course, and be glorified, euen as it is with you:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_2" GUID="E5D78EC4-046A-50D7-B246-9396EF3506A1"><num>2</num><content><p>And that we may bee deliuered from vnreasonable and wicked men: for all men haue not faith.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_3" GUID="05E20D86-BCB0-5822-BF72-04ED914FE260"><num>3</num><content><p>But the Lord is faithfull, who shall stablish you, and keepe you from euill.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_4" GUID="2A382678-B7B9-5289-BE2F-48AD9DEC05D2"><num>4</num><content><p>And wee haue confidence in the Lord touching you, that yee both doe, and will doe the things which we command you.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_5" GUID="42F39651-BDAC-502A-AC09-8FAE31907566"><num>5</num><content><p>And the Lord direct your hearts into the loue of God, and into the patient waiting for Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_6" GUID="81E38E25-46B4-5D9E-9368-5166B6DCB4E7"><num>6</num><content><p>Now we command you, brethren, in the Name of our Lord Iesus Christ, that ye withdraw your selues from euery brother that walketh disorderly, and not after the tradition which hee receiued of vs.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_7" GUID="194DFBC9-C92F-52EB-BA98-AC75481EFC51"><num>7</num><content><p>For your selues know how yee ought to follow vs: for wee behaued not our selues disorderly among you,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_8" GUID="22EC8E25-0B0E-555B-8401-AEB3874C624A"><num>8</num><content><p>Neither did wee eate any mans bread for nought: but wrought with labour and trauaile night and day, that wee might not bee chargeable to any of you.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_9" GUID="6EA7AD0E-2810-509C-B22B-EF272A33B74D"><num>9</num><content><p>Not because we haue not power, but to make our selues an ensample vnto you to follow vs.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_10" GUID="AD930D56-4AC7-5F99-974C-5A7D1D022D94"><num>10</num><content><p>For euen when wee were with you, this wee commanded you, that if any would not worke, neither should he eate.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_11" GUID="0994A5B3-83BD-537D-B3AF-377407D1A0D1"><num>11</num><content><p>For we heare that there are some which walke among you disorderly, working not at all, but are busi-bodies.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_12" GUID="39410AB8-1AD6-59CA-B3E2-FE6C9473D545"><num>12</num><content><p>Now them that are such, we command, and exhort by our Lord Iesus Christ, that with quietnesse they worke, and eat their owne bread.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_13" GUID="DF14C11F-8AB0-5171-9CD0-7D2D67E0F2E5"><num>13</num><content><p>But ye, brethren, be not wearie in well doing.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_14" GUID="C33B6480-63D1-5E2C-83A3-C21AEDEEFB93"><num>14</num><content><p>And if any man obey not our word, by this Epistle note that man, and haue no company with him, that he may be ashamed,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_15" GUID="1FD3CDCE-C63B-56AB-A33E-AA2EF08D7B7D"><num>15</num><content><p>Yet count him not as an enemie, but admonish him as a brother.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_16" GUID="DC784490-4A75-51F6-942C-522AAAFBB7C1"><num>16</num><content><p>Now the Lord of peace himselfe, giue you peace alwayes, by all meanes. The Lord be with you all.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_17" GUID="3DD4E12A-0541-521E-A59E-246286A4180D"><num>17</num><content><p>The salutation of Paul, with mine owne hand, which is the token in euery Epistle: so I write.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_18" GUID="F496AA99-B5D8-5F03-AEE8-D273A6C1C1C6"><num>18</num><content><p>The grace of our Lord Iesus Christ be with you all, Amen. The second Epistle to the Thessalonians was written from Athens.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

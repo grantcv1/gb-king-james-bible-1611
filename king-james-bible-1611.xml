@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<documentCollection name="bible" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/collection/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/collection"/><FRBRalias value="The Holy Bible, 1611" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/collection/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/collection/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/collection/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/collection/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="52E2199A-FB7D-59EF-AF66-1C8AE809D4F0" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="E877682A-8653-5575-BF95-EA3BF02DC766" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="680049B9-9576-5BEF-918D-7419DA44A269" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="2B9FDC84-BA99-51BE-B41C-EFCDFB62B7F5" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<coverPage>
+<p class="tp1">THE</p><p class="tp2"><docTitle>HOLY BIBLE,</docTitle></p>
+<p class="tp3">Conteyning the Old Testament,</p><p class="tp2b">AND THE NEW:</p>
+<p class="tp3">Newly Translated out of the Originall tongues: &amp; with the former Translations diligently compared and reuised, by his Maiesties speciall Comandement.</p>
+<p class="tp4">Appointed to be read in Churches.</p>
+<p class="tp5">Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie.</p>
+<p class="tp6"><docDate date="1611">ANNO DOM. 1611.</docDate></p>
+</coverPage>
+<collectionBody>
+<component eId="cmp_1" GUID="478CCE0C-EDB5-55C7-AA4E-5832838ACC83"><documentRef href="genesis.xml" showAs="Genesis"/></component>
+<component eId="cmp_2" GUID="AB296429-206F-520E-AC97-BDCBA72CFA0B"><documentRef href="exodus.xml" showAs="Exodus"/></component>
+<component eId="cmp_3" GUID="AC0A2CCC-4B6A-57A7-85E8-0791496305B7"><documentRef href="leviticus.xml" showAs="Leviticus"/></component>
+<component eId="cmp_4" GUID="756D30A6-D585-5A53-84FF-23B7FB575DB8"><documentRef href="numbers.xml" showAs="Numbers"/></component>
+<component eId="cmp_5" GUID="5322C8E0-99D3-5825-8CD9-043D464730A0"><documentRef href="deuteronomy.xml" showAs="Deuteronomy"/></component>
+<component eId="cmp_6" GUID="57AFA95D-915F-5DD9-AB89-11CC35890427"><documentRef href="joshua.xml" showAs="Joshua"/></component>
+<component eId="cmp_7" GUID="EE982AF3-CEAC-522A-8606-AC571F7DC4C4"><documentRef href="judges.xml" showAs="Judges"/></component>
+<component eId="cmp_8" GUID="32861F7D-DA5D-5EF3-B2B0-ABB43D8285B4"><documentRef href="ruth.xml" showAs="Ruth"/></component>
+<component eId="cmp_9" GUID="00FC21D8-42BC-5F0E-9B87-6F21CF461505"><documentRef href="1-samuel.xml" showAs="1 Samuel"/></component>
+<component eId="cmp_10" GUID="81417A8C-C1D8-5886-9E03-03EA30C136C8"><documentRef href="2-samuel.xml" showAs="2 Samuel"/></component>
+<component eId="cmp_11" GUID="8BDE6B60-AC8E-56DB-803C-710875792AB6"><documentRef href="1-kings.xml" showAs="1 Kings"/></component>
+<component eId="cmp_12" GUID="0A2FD1A3-748D-5251-8102-C63825078CB6"><documentRef href="2-kings.xml" showAs="2 Kings"/></component>
+<component eId="cmp_13" GUID="E086700B-F6DA-5FA1-BE18-FA96FAA41881"><documentRef href="1-chronicles.xml" showAs="1 Chronicles"/></component>
+<component eId="cmp_14" GUID="4C4B36FB-A75D-56D1-9213-B1F01E4B72EC"><documentRef href="2-chronicles.xml" showAs="2 Chronicles"/></component>
+<component eId="cmp_15" GUID="67824462-E673-5186-8706-B1A6FA69EC54"><documentRef href="ezra.xml" showAs="Ezra"/></component>
+<component eId="cmp_16" GUID="2254B723-EBF2-573D-8724-70DEDD376FE1"><documentRef href="nehemiah.xml" showAs="Nehemiah"/></component>
+<component eId="cmp_17" GUID="60FD5616-94A4-5EC1-8702-8A07592E4A3F"><documentRef href="esther.xml" showAs="Esther"/></component>
+<component eId="cmp_18" GUID="850C582E-2FE3-5BBF-A859-DEED62C700F9"><documentRef href="job.xml" showAs="Job"/></component>
+<component eId="cmp_19" GUID="4C367EBD-BAB6-5A82-8210-5CCD1FB48020"><documentRef href="psalms.xml" showAs="Psalms"/></component>
+<component eId="cmp_20" GUID="D4E866BA-207B-5262-8F22-732CEC64E8C9"><documentRef href="proverbs.xml" showAs="Proverbs"/></component>
+<component eId="cmp_21" GUID="58F793CB-4C9B-510D-A112-8DA8208A5EB4"><documentRef href="ecclesiastes.xml" showAs="Ecclesiastes"/></component>
+<component eId="cmp_22" GUID="88DA22D8-3BE0-5F3F-A870-D7318346C580"><documentRef href="song-of-solomon.xml" showAs="Song of Solomon"/></component>
+<component eId="cmp_23" GUID="29F385C2-9B09-5983-B30F-8A801FB931BA"><documentRef href="isaiah.xml" showAs="Isaiah"/></component>
+<component eId="cmp_24" GUID="C55139C6-1210-543F-A0C8-4C0BE3969022"><documentRef href="jeremiah.xml" showAs="Jeremiah"/></component>
+<component eId="cmp_25" GUID="28C911E7-4B8E-5B77-9B60-5245E578644C"><documentRef href="lamentations.xml" showAs="Lamentations"/></component>
+<component eId="cmp_26" GUID="9199CCB7-3E83-5BBA-856B-24C8AC5FC62F"><documentRef href="ezekiel.xml" showAs="Ezekiel"/></component>
+<component eId="cmp_27" GUID="6BEC93A6-5EF2-5E68-9089-77C1D10D43CA"><documentRef href="daniel.xml" showAs="Daniel"/></component>
+<component eId="cmp_28" GUID="24BAB643-6251-53A8-93AF-B09E5998D678"><documentRef href="hosea.xml" showAs="Hosea"/></component>
+<component eId="cmp_29" GUID="5D0EBB4B-6BE3-5806-9589-37FB8919392B"><documentRef href="joel.xml" showAs="Joel"/></component>
+<component eId="cmp_30" GUID="E4C131AF-FF77-5DEA-B0D1-2F249065471A"><documentRef href="amos.xml" showAs="Amos"/></component>
+<component eId="cmp_31" GUID="C2F86EA7-D5E8-5AB7-8E8A-05098DA4E009"><documentRef href="obadiah.xml" showAs="Obadiah"/></component>
+<component eId="cmp_32" GUID="5FA5622D-EEE7-51AD-99C2-E0408754418C"><documentRef href="jonah.xml" showAs="Jonah"/></component>
+<component eId="cmp_33" GUID="5685F53F-AE16-5C6D-997D-CA1E349EDA5B"><documentRef href="micah.xml" showAs="Micah"/></component>
+<component eId="cmp_34" GUID="C6E8BADA-A79B-5CD7-9A38-0C32BC22FF18"><documentRef href="nahum.xml" showAs="Nahum"/></component>
+<component eId="cmp_35" GUID="0D87D362-8F4B-537C-8D2B-A46D387536A9"><documentRef href="habakkuk.xml" showAs="Habakkuk"/></component>
+<component eId="cmp_36" GUID="71A9501E-E07A-5846-B1EE-B3A6D1431C02"><documentRef href="zephaniah.xml" showAs="Zephaniah"/></component>
+<component eId="cmp_37" GUID="B9D70258-71A3-538D-8251-DBDE23A61FE6"><documentRef href="haggai.xml" showAs="Haggai"/></component>
+<component eId="cmp_38" GUID="E78FF542-DC7D-518B-8239-7C1B50ADA01A"><documentRef href="zechariah.xml" showAs="Zechariah"/></component>
+<component eId="cmp_39" GUID="6008A5C1-548B-5AE2-98DA-EBC3C5AD2214"><documentRef href="malachi.xml" showAs="Malachi"/></component>
+<component eId="cmp_40" GUID="3327F7FB-157B-527A-9B04-A9E11D548BF8"><documentRef href="1-esdras.xml" showAs="1 Esdras"/></component>
+<component eId="cmp_41" GUID="95B2B554-CBD1-59ED-BCA0-1CEA0CF63C63"><documentRef href="2-esdras.xml" showAs="2 Esdras"/></component>
+<component eId="cmp_42" GUID="6430B6A8-7BB9-52E5-AB2B-499B7D1D0352"><documentRef href="tobit.xml" showAs="Tobit"/></component>
+<component eId="cmp_43" GUID="111C7D95-967D-5177-AB11-A54AE8257FB4"><documentRef href="judith.xml" showAs="Judith"/></component>
+<component eId="cmp_44" GUID="458A2035-CDDA-5753-AD6C-C2490C898D09"><documentRef href="wisdom-of-solomon.xml" showAs="Wisdom of Solomon"/></component>
+<component eId="cmp_45" GUID="2331EB65-AB21-52CB-A490-6C1504C475B1"><documentRef href="ecclesiasticus.xml" showAs="Ecclesiasticus"/></component>
+<component eId="cmp_46" GUID="F425E126-1EC7-51E0-8375-3E0897516D6E"><documentRef href="baruch.xml" showAs="Baruch"/></component>
+<component eId="cmp_47" GUID="0E7150B4-A9CF-5564-8E50-FC4189A84CC3"><documentRef href="letter-of-jeremiah.xml" showAs="Letter of Jeremiah"/></component>
+<component eId="cmp_48" GUID="27932962-C7F5-586A-9AEF-3780B8CE8D32"><documentRef href="prayer-of-azariah.xml" showAs="Prayer of Azariah"/></component>
+<component eId="cmp_49" GUID="EDC30B70-B8F1-5BF4-9617-DF3A12392D7A"><documentRef href="susanna.xml" showAs="Susanna"/></component>
+<component eId="cmp_50" GUID="9D37907A-8F0B-5FAA-AD43-D53A6D07249A"><documentRef href="bel-and-the-dragon.xml" showAs="Bel and the Dragon"/></component>
+<component eId="cmp_51" GUID="71C85A55-18EA-5F1F-8214-ED9A6F331879"><documentRef href="prayer-of-manasseh.xml" showAs="Prayer of Manasseh"/></component>
+<component eId="cmp_52" GUID="7F7CADC7-8ABA-5389-8F47-CEFADC484785"><documentRef href="1-maccabees.xml" showAs="1 Maccabees"/></component>
+<component eId="cmp_53" GUID="6293F7CC-728B-5D5C-8FA2-3352ABF005BC"><documentRef href="2-maccabees.xml" showAs="2 Maccabees"/></component>
+<component eId="cmp_54" GUID="1EF356E3-67FF-5D14-B7C4-23900FD9EDD1"><documentRef href="matthew.xml" showAs="Matthew"/></component>
+<component eId="cmp_55" GUID="8F271F17-5204-5122-92AD-CC689ED24CAB"><documentRef href="mark.xml" showAs="Mark"/></component>
+<component eId="cmp_56" GUID="2990A1EF-CF0E-5BFC-8CCE-1E624DD18716"><documentRef href="luke.xml" showAs="Luke"/></component>
+<component eId="cmp_57" GUID="82336BEF-42E6-5356-BDF3-A93A5E7B8E39"><documentRef href="john.xml" showAs="John"/></component>
+<component eId="cmp_58" GUID="A7BE5BA0-13A9-58CA-9383-827561DDA46E"><documentRef href="acts.xml" showAs="Acts"/></component>
+<component eId="cmp_59" GUID="BBE9DFC7-6897-54B8-8DF8-051C0E1E3BEF"><documentRef href="romans.xml" showAs="Romans"/></component>
+<component eId="cmp_60" GUID="4C3060DA-3255-56DA-BDE2-BDB6642A9D3F"><documentRef href="1-corinthians.xml" showAs="1 Corinthians"/></component>
+<component eId="cmp_61" GUID="92DA12FF-1C87-5E03-91C5-A49E152B7FA2"><documentRef href="2-corinthians.xml" showAs="2 Corinthians"/></component>
+<component eId="cmp_62" GUID="8FE25887-6A33-5AAD-A612-99A718494D5A"><documentRef href="galatians.xml" showAs="Galatians"/></component>
+<component eId="cmp_63" GUID="2C0D2E56-36C3-5EF6-946C-C8262529D169"><documentRef href="ephesians.xml" showAs="Ephesians"/></component>
+<component eId="cmp_64" GUID="9AF7041A-E37D-5F55-90AF-8538927C6E7D"><documentRef href="philippians.xml" showAs="Philippians"/></component>
+<component eId="cmp_65" GUID="1760DD66-7771-576D-AB20-FCE87FC7E08B"><documentRef href="colossians.xml" showAs="Colossians"/></component>
+<component eId="cmp_66" GUID="DEF65EC7-7790-5AF2-BDB6-7F8B588AA653"><documentRef href="1-thessalonians.xml" showAs="1 Thessalonians"/></component>
+<component eId="cmp_67" GUID="1C5856BE-9008-5296-BAB9-416228E137B3"><documentRef href="2-thessalonians.xml" showAs="2 Thessalonians"/></component>
+<component eId="cmp_68" GUID="376A2F00-49DA-507C-B892-1E8C0E9633D9"><documentRef href="1-timothy.xml" showAs="1 Timothy"/></component>
+<component eId="cmp_69" GUID="30D3C524-6DDC-5860-B57E-1535B72FEB1D"><documentRef href="2-timothy.xml" showAs="2 Timothy"/></component>
+<component eId="cmp_70" GUID="83C97B21-2303-55C1-A2EA-8CD0D9107A98"><documentRef href="titus.xml" showAs="Titus"/></component>
+<component eId="cmp_71" GUID="008EFE8D-3FD6-57A9-9932-01F1314A0323"><documentRef href="philemon.xml" showAs="Philemon"/></component>
+<component eId="cmp_72" GUID="0937B6FA-BA9E-583B-91BA-B355C29E7A14"><documentRef href="hebrews.xml" showAs="Hebrews"/></component>
+<component eId="cmp_73" GUID="5DD037E3-35BC-5ED1-99D7-E6BF0F3300F4"><documentRef href="james.xml" showAs="James"/></component>
+<component eId="cmp_74" GUID="6DFBB865-9915-5818-9588-34F94593959F"><documentRef href="1-peter.xml" showAs="1 Peter"/></component>
+<component eId="cmp_75" GUID="5BFB880E-9DA2-5120-9C29-8411D358EE45"><documentRef href="2-peter.xml" showAs="2 Peter"/></component>
+<component eId="cmp_76" GUID="37C7EC55-53C3-5DC5-B17E-01258C7A8989"><documentRef href="1-john.xml" showAs="1 John"/></component>
+<component eId="cmp_77" GUID="2DC45858-15A7-5EA3-8AB6-C455C21AC2DC"><documentRef href="2-john.xml" showAs="2 John"/></component>
+<component eId="cmp_78" GUID="03A3F14F-DCAA-508A-A5C3-ABE679CADA8B"><documentRef href="3-john.xml" showAs="3 John"/></component>
+<component eId="cmp_79" GUID="023ACED0-3327-5F6F-9D6B-E3151A307DC1"><documentRef href="jude.xml" showAs="Jude"/></component>
+<component eId="cmp_80" GUID="E467253F-49AA-5A6B-BD4A-31D1459F7FB7"><documentRef href="revelation.xml" showAs="Revelation"/></component>
+</collectionBody>
+</documentCollection>
+</akomaNtoso>

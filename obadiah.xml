@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah"/><FRBRalias value="Obadiah" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/obadiah/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="C6A4758A-FAF1-5443-930B-4CF232C06A04" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="BDA9B043-3688-5520-B422-5A3D2B73BB5D" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="549DD647-F62F-50E8-8E57-4378737BCFAF" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="83AF2192-7DF8-5929-B14C-8ADE342A81A2" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The Old Testament</p><p><docTitle>Obadiah</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="B9BEC20B-606F-5C3D-8C9A-F8E11A1C3222"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="3366546A-4B4E-5CE9-B7F2-AB4E2C243ED5"><num>1</num><content><p>The vision of Obadiah: Thus saith the Lord God, concerning Edom; Wee haue heard a rumour from the Lord, and an ambassador is sent among the heathen: Arise yee, and let vs rise vp against her in battell.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="F5F4B95C-A692-5BCB-B03C-4F6AB79963FC"><num>2</num><content><p>Behold, I haue made thee small among the heathen: thou art greatly despised.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="B95D46E3-A0B6-5F6C-8593-722C6640B61D"><num>3</num><content><p>¶ The pride of thine heart hath deceiued thee: thou that dwellest in the clefts of the rocke, Whose habitation is high, that saith in his heart: Who shall bring me downe to the ground?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="B66B16E2-A219-5961-B496-33694E1D0B8D"><num>4</num><content><p>Though thou exalt thy selfe as the eagle, and though thou set thy nest among the starres, thence will I bring thee downe, saith the Lord.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="4813CA5B-0E89-574C-B94B-0DBBE7CA30C6"><num>5</num><content><p>If theeues came to thee, if robbers by night (how art thou cut off?) would they not haue stollen til they had enough? if the grape gatherers came to thee, would they not leaue some grapes?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="ECFC3109-8663-5765-B46B-5BDF5DD40ED1"><num>6</num><content><p>How are the things of Esau searched out? how are his hid things sought vp?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="BB4FB960-3F1F-5582-8A13-E0AF9F06E1E5"><num>7</num><content><p>All the men of thy confederacie haue brought thee euen to the border: the men that were at peace with thee, haue deceiued thee, and preuailed against thee: they that eate thy bread haue laide a wound vnder thee: there is none vnderstanding in him.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="A18C2631-E815-51D9-9DD0-AC39263A70B1"><num>8</num><content><p>Shal I not in that day, saith the Lord, euen destroy the wise men out of Edom, and vnderstanding out of the mount of Esau?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="0C395D7D-A9F8-59C2-9436-3AAEC51E44E5"><num>9</num><content><p>And thy mightie men, O Teman, shall be dismayed, to the end that euery one of the mount of Esau may be cut off by slaughter.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="90033198-73A5-5265-BB10-E070060F09E7"><num>10</num><content><p>¶ For thy violence against thy brother Iacob shame shall couer thee, and thou shalt be cut off for euer.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="26595ECB-3E3E-5B29-9B98-0EC6803236CB"><num>11</num><content><p>In the day that thou stoodest on the other side, in the day that the strangers caried away captiue his forces, and forreiners entred into his gates, and cast lots vpon Ierusalem, euen thou wast as one of them.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="2D635481-1532-5B01-A392-EFEC287208B9"><num>12</num><content><p>But thou shouldest not haue looked on the day of thy brother in the day that hee became a stranger, neither shouldest thou haue reioyced ouer the children of Iudah in the day of their destruction: neither shouldest thou haue spoken proudly in the day of distresse.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="FA5DE278-23DE-54FD-BDE7-ABBE64A16D7E"><num>13</num><content><p>Thou shouldest not haue entred into the gate of my people in the day of their calamitie: yea, thou shouldest not haue looked on their affliction in the day of their calamitie, nor haue laid hands on their substance in the day of their calamitie.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_14" GUID="47653672-18C2-5C31-862C-2B79F5E5F6CF"><num>14</num><content><p>Neither shouldest thou haue stood in the crosse way to cut off those of his that did escape, neither shouldest thou haue deliuered vp those of his that did remaine in the day of distresse.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_15" GUID="3C51F2A0-5723-51FF-8885-7CBB7B885544"><num>15</num><content><p>For the day of the Lord is neere vpon all the heathen: as thou hast done, it shall bee done vnto thee, thy reward shall returne vpon thine owne head.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_16" GUID="699C812D-4626-5D31-AB94-29B3766F1D92"><num>16</num><content><p>For as ye haue drunke vpon my holy mountaine, so shall all the heathen drinke continually: yea, they shall drinke, and they shall swallow downe, and they shall bee as though they had not bene.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_17" GUID="C1EB4745-69D4-51CE-93E0-E995E660AB89"><num>17</num><content><p>¶ But vpon mount Zion shall be deliuerance, and there shall be holinesse, and the house of Iacob shall possesse their possessions.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_18" GUID="19D9D7E9-8ED4-5FCB-AFDB-3FBFD839FC08"><num>18</num><content><p>And the house of Iacob shall bee a fire, and the house of Ioseph a flame, and the house of Esau for stubble, and they shall kindle in them and deuoure them, and there shall not be any remaining of the house of Esau, for the Lord hath spoken it.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_19" GUID="9A7505D3-6124-5117-85A5-93CED4726D3B"><num>19</num><content><p>And they of the South shall possesse the mount of Esau, and they of the plaine, the Philistines: and they shall possesse the fields of Ephraim, and the fields of Samaria, and Beniamin shall possesse Gilead.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_20" GUID="DE3929B4-963B-5A81-B814-B9871D0FA39B"><num>20</num><content><p>And the captiuitie of this hoste of the children of Israel shall possesse that of the Canaanites euen vnto Zarephath, and the captiuitie of Ierusalem which is in Sepharad, shall possesse the cities of the South.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_21" GUID="0D6F7519-3A59-5A56-8753-649E83458A2E"><num>21</num><content><p>And Sauiours shall come vp on mount Zion to iudge the mount of Esau, and the kingdome shall be the Lords.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

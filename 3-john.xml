@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/3-john/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/3-john"/><FRBRalias value="3 John" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/3-john/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/3-john/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/3-john/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/3-john/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="62C0C3E1-EBE0-545A-BF35-46128382E8CE" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="C8FBEBD8-9C4A-5592-A44E-0F9A40C9C378" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="5D87FF70-8827-5B60-A64D-83B3D0C2D748" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="03C33C04-AB4C-54AA-B3D0-758D0DD99B7C" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>3 John</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="3E7DEC2A-910F-5649-B689-107522750030"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="1E3FD9EC-D0A6-57F7-B6A2-43576CD2416B"><num>1</num><content><p>The Elder vnto the welbeloued Gaius, whom I loue in the trueth:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="BA1BCA61-2247-5964-A738-3218CC0FE00D"><num>2</num><content><p>Beloued, I wish aboue all things that thou mayest prosper and be in health, euen as thy soule prospereth.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="93CA6160-C096-56E6-85B3-E8FB90DEB90A"><num>3</num><content><p>For I reioyced greatly when the brethren came and testified of the truth that is in thee, euen as thou walkest in the trueth.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="66528088-DDE0-575E-904E-D7426AB214A4"><num>4</num><content><p>I haue no greater ioy, then to heare that my children walke in truth.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="01792E76-D64F-5218-B340-5D8FD2D6AF9D"><num>5</num><content><p>Beloued, thou doest faithfully whatsoeuer thou doest to the Brethren, and to strangers:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="A46D1BE3-EC40-5971-B4B9-6D5A9686171D"><num>6</num><content><p>Which haue borne witnesse of thy charitie before the Church: whome if thou bring forward on their iourney after a godly sort, thou shalt doe well:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="D981FDD1-220E-5443-A238-863E512201D1"><num>7</num><content><p>Because that for his Names sake they went foorth, taking nothing of the Gentiles.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="F5B4D0C6-DB10-5E1F-95CE-8D83A45EA617"><num>8</num><content><p>We therefore ought to receiue such, that we might be fellow helpers to the trueth.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="35FD9C68-927E-5617-90AB-A8771ADDFAD4"><num>9</num><content><p>I wrote vnto the Church, but Diotrephes, who loueth to haue the preeminence among them, receiueth vs not.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="A2E471F2-0618-508E-A26E-4232A866E75B"><num>10</num><content><p>Wherefore if I come, I will remember his deeds which he doeth, prating against vs with malicious words: and not content therewith, neither doth hee himselfe receiue the brethren, and forbiddeth them that would, and casteth them out of the Church.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="0A3C9E65-ABED-5487-8043-089862C0E220"><num>11</num><content><p>Beloued, follow not that which is euill, but that which is good. He that doth good, is of God: but hee that doth euill, hath not seene God.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="D42DB3C8-5A8A-545B-AEFA-00F05C14DA35"><num>12</num><content><p>Demetrius hath good report of all men, and of the trueth it selfe: yea, and we also beare record, and ye know that our record is true.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="18840FE1-A771-5359-B501-D6881B900FBC"><num>13</num><content><p>I had many things to write, but I will not with inke and pen write vnto thee.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_14" GUID="CC8267C4-C799-509E-AE21-E7F26C4202AD"><num>14</num><content><p>But I trust I shall shortly see thee, and wee shall speake face to face. Peace bee to thee. Our friends salute thee. Greet the friends by name.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

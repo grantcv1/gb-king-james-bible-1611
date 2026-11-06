@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-john/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-john"/><FRBRalias value="2 John" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-john/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-john/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/2-john/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/2-john/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="E28174AB-0043-53AB-AF48-4873680D0CA3" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="87677F9D-E5EC-500F-B0AE-122D88DF998E" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="A081DBE9-2498-501C-977C-5C18705C4E82" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="75F81455-291D-52CF-9C27-F515BBD30B1F" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>2 John</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="51079D31-D353-5B55-8AC2-BA7CA29C86A4"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="59B591B8-B18F-5446-8BC9-7B22F443C821"><num>1</num><content><p>The Elder vnto the elect Lady, and her children, whome I loue in the trueth: and not I onely, but also all they that haue knowen &amp;thorn; trueth:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="AB8073E6-263B-5B38-8A1F-73B34948104A"><num>2</num><content><p>For the trueths sake which dwelleth in vs, and shalbe with vs for euer:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="D7FA6028-2A5C-5C69-88DE-3AD3233CF188"><num>3</num><content><p>Grace bee with you, mercie, and peace from God the Father, and from the Lord Iesus Christ, the Sonne of the Father in trueth and loue.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="8998979E-DEA5-5B6F-862D-DF9E13A7C913"><num>4</num><content><p>I reioyced greatly, that I found of thy children walking in trueth, as wee haue receiued a commaundement from the Father.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="EE21D565-29A6-5041-8BA8-7E3AFA77831B"><num>5</num><content><p>And now, I beseech thee Lady, not as though I wrote a new commandement vnto thee: but that which wee had from the beginning, that wee loue one another.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="7AADD73E-4D1F-5B68-A342-AB9E9D6A96D9"><num>6</num><content><p>And this is loue, that wee walke after his Commandements. This is the Commandement, that as yee haue heard from the beginning, yee should walke in it.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="EC3E19F5-9641-5F74-B52E-BEBCB00CA179"><num>7</num><content><p>For many deceiuers are entred into the world, who confesse not that Iesus Christ is come in the flesh. This is a deceiuer, and an Antichrist.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="D3B4F988-C07E-52C5-87F1-8716ECB9C0F8"><num>8</num><content><p>Looke to your selues, that wee lose not those things which wee haue wrought, but that we receiue a full reward.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="E22F2E29-2414-5FCC-86FC-C1554760EAC9"><num>9</num><content><p>Whosoeuer transgresseth and abideth not in the doctrine of Christ, hath not God: hee that abideth in the doctrine of Christ, he hath both the Father and the Sonne.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="28647501-09B8-5481-81B6-2F34B26CFBCA"><num>10</num><content><p>If there come any vnto you, and bring not this doctrine, receiue him not into your house, neither bid him, God speed.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="E3C5E109-3FFB-562C-9EBB-82168D5550DE"><num>11</num><content><p>For hee that biddeth him God speed, is partaker of his euill deeds.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="55F434C7-103D-5B13-96D3-A3E939C8C8B1"><num>12</num><content><p>Hauing many things to write vnto you, I would not write with paper and inke, but I trust to come vnto you, and speake face to face, that our ioy may be full.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="E5F8A58A-3422-5423-BCAB-4A6A9210AEF9"><num>13</num><content><p>The children of thy elect sister greet thee. Amen.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

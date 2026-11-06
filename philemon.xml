@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/philemon/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/philemon"/><FRBRalias value="Philemon" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/philemon/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/philemon/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/philemon/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/philemon/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="F311A26F-C6F6-59E3-A1AD-88B6C34B022D" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="45418F51-9FC9-511B-B6F7-1B4E41CFB18F" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="EB9C589D-C7F5-5C7E-B27B-948F8F7127A9" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="3610EBCE-AB14-5BD7-8B9E-F7FE59E29DCD" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>Philemon</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="8744E0C1-AB42-5BFC-90D9-B477238B3AB4"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="99CBEDF7-6309-5BCD-9A15-7114F624799C"><num>1</num><content><p>Paul a prisoner of Iesus Christ, &amp; Timothie our brother vnto Philemon our dearely beloued, and fellow labourer,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="F4546A25-EDD8-537D-B1F0-D3FEF33F6934"><num>2</num><content><p>And to our beloued Apphia, and Archippus our fellow Souldier, and to the Church in thy house.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="B0BC3EDE-0537-5009-8344-22A0E71F4104"><num>3</num><content><p>Grace to you, and peace from God our Father, and the Lord Iesus Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="5C1A1729-078A-5DE9-980B-D1269A0284B2"><num>4</num><content><p>I thanke my God, making mention of thee alwayes in my prayers,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="E7BFD2AE-6B90-549E-ABBD-1346DE5678B4"><num>5</num><content><p>Hearing of thy loue, and faith, which thou hast toward the Lord Iesus, and toward all Saints:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="E2554FE2-2084-5BB7-8EDC-4C79A8586498"><num>6</num><content><p>That the communication of thy faith may become effectuall by the acknowledging of euery good thing, which is in you in Christ Iesus.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="C07D8AA6-38D7-508D-91E3-5CE05A5BB30E"><num>7</num><content><p>For wee haue great ioy and consolation in thy loue, because the bowels of the Saints are refreshed by thee, brother.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="1A9746CE-2843-5EC4-9E47-4B0867171853"><num>8</num><content><p>Wherefore, though I might bee much bolde in Christ to enioyne thee that which is conuenient;</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="10C45FEA-07F3-5CF2-93AE-2B8F980E94E5"><num>9</num><content><p>Yet for loues sake I rather beseech thee, being such a one as Paul the aged, and now also a prisoner of Iesus Christ.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="F211B23D-6425-5D4C-BF19-44A8FDE55E83"><num>10</num><content><p>I beseech thee for my sonne Onesimus, whome I haue begotten in my bonds,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="C674D85F-7D13-51A1-A57D-93EB8F056A70"><num>11</num><content><p>Which in time past was to thee vnprofitable: but now profitable to thee and to me:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="FAD12D93-8C50-53C8-AF8F-DACB4A4A039A"><num>12</num><content><p>Whom I haue sent againe: thou therfore receiue him, that is mine owne bowels.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="A7DD5239-D082-5482-A1DE-07723178C0C7"><num>13</num><content><p>Whome I would haue reteined with mee, that in thy stead hee might haue ministred vnto me in the bonds of the Gospel.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_14" GUID="4AF8F173-F29E-50A3-83E9-8978928CA3F6"><num>14</num><content><p>But without thy minde would I doe nothing, that thy benefite should not bee as it were of necessitie, but willingly.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_15" GUID="00A86DF2-7E44-5815-AFF1-7DD7FC30F569"><num>15</num><content><p>For perhaps hee therefore departed for a season, that thou shouldest receiue him for euer:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_16" GUID="84A4CC37-C064-5F1D-9CC7-04673A8BD9AE"><num>16</num><content><p>Not now as a seruant, but aboue a seruant, a brother beloued, specially to mee, but how much more vnto thee, both in the flesh, and in the Lord?</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_17" GUID="B052E532-7C4E-5749-AC61-60A54FE281F3"><num>17</num><content><p>If thou count mee therefore a partner, receiue him as my selfe.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_18" GUID="B3068CDA-4F76-5821-B077-9B6DF815D45F"><num>18</num><content><p>If hee hath wronged thee, or oweth thee ought, put that on mine account.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_19" GUID="227577DE-E0F8-58D7-B903-97800AFF455F"><num>19</num><content><p>I Paul haue written it with mine own hand, I will repay it: albeit I doe not say to thee how thou owest vnto me, euen thine owne selfe besides:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_20" GUID="54E47A5F-88B6-51CE-9611-98612D7FBF28"><num>20</num><content><p>Yea, brother, let mee haue ioy of thee in the Lord: refresh my bowles in the Lord.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_21" GUID="054C13A9-4E85-5900-B2DA-55D228CF121A"><num>21</num><content><p>Hauing confidence in thy obedience, I wrote vnto thee, knowing that thou wilt also doe more then I say.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_22" GUID="B8CD57E3-00CC-54E4-8DE8-C3105F3B7B31"><num>22</num><content><p>But withall prepare mee also a lodging: for I trust that through your prayers I shall be giuen vnto you.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_23" GUID="299FBB87-E5D6-5A4C-9D2F-81A8C98F1A5F"><num>23</num><content><p>There salute thee Epaphras, my fellow prisoner in Christ Iesus:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_24" GUID="44B0AE1B-9D0A-514E-8EE9-46E01935DCAA"><num>24</num><content><p>Marcus, Aristarchus, Demas, Lucas, my fellow labourers.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_25" GUID="231AB378-CFB4-5E49-8193-170B76CA9731"><num>25</num><content><p>The grace of our Lord Iesus Christ be with your spirit. Amen.Written from Rome to Philemon, by Onesimus a seruant.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>

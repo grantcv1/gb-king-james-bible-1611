@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="king-james-bible-1611.css"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" version="3.1">
+<doc name="bibleBook" contains="singleVersion">
+<meta>
+<identification source="#gvergottini">
+<FRBRWork><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/titus/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/titus"/><FRBRalias value="Titus" name="short"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRcountry value="gb"/><FRBRsubtype value="bible"/></FRBRWork>
+<FRBRExpression><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/titus/eng@1611/!main"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/titus/eng@1611"/><FRBRdate date="1611" name="publication"/><FRBRauthor href="#barker" as="#printer"/><FRBRlanguage language="eng"/></FRBRExpression>
+<FRBRManifestation><FRBRthis value="/akn/gb/doc/bible/1611-01-01/king-james/titus/eng@1611/!main.xml"/><FRBRuri value="/akn/gb/doc/bible/1611-01-01/king-james/titus/eng@1611.xml"/><FRBRdate date="2026-11-05" name="markup"/><FRBRauthor href="#gvergottini" as="#editor"/><FRBRformat value="application/akn+xml"/></FRBRManifestation>
+</identification>
+<references source="#gvergottini">
+<TLCOrganization eId="barker" GUID="87C18439-85A7-5070-B0E9-EC36BB131D9B" href="/ontology/organization/gb.robertBarker" showAs="Robert Barker, Printer to the King"/>
+<TLCPerson eId="gvergottini" GUID="2DFDF764-9C68-5DC9-8D5F-3326101E7334" href="/ontology/person/grantVergottini" showAs="Grant Vergottini"/>
+<TLCRole eId="printer" GUID="7025E107-BDFE-5EE5-AA4E-6F21A3C59376" href="/ontology/role/printer" showAs="Printer"/>
+<TLCRole eId="editor" GUID="03287CD6-6273-5271-9691-4A8FF5BAD237" href="/ontology/role/editor" showAs="Editor"/>
+</references>
+</meta>
+<preface><p class="section">The New Testament</p><p><docTitle>Titus</docTitle></p></preface>
+<mainBody>
+<hcontainer name="chapter" eId="chp_1" GUID="CEC0129F-442A-5B3A-BC6D-B70F5DABB51A"><num>CHAP. I.</num>
+<hcontainer name="verse" eId="chp_1__vrs_1" GUID="D1E6C918-D4F0-5ECF-9EA8-362584769F66"><num>1</num><content><p>Paul a seruant of God, and an Apostle of Iesus Christ, according to the Faith of Gods Elect, and the acknowledging of the trueth which is after godlinesse,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_2" GUID="CFFC0163-B534-5E45-A4BC-24C2D66BA4C8"><num>2</num><content><p>In hope of eternall life, which God that cannot lie, promised before the world began:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_3" GUID="167BCCEC-8D73-5411-B18E-1361822F2E2E"><num>3</num><content><p>But hath in due times manifested his word through preaching, which is committed vnto mee according to the commandement of God our Sauiour:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_4" GUID="5EB73493-77D6-5184-937C-525D78F97083"><num>4</num><content><p>To Titus mine owne Sonne after the common faith, Grace, mercie, and peace from God the Father, and the Lord Iesus Christ our Sauiour.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_5" GUID="C925CA19-75BD-5C65-9584-591F7FBF815D"><num>5</num><content><p>For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordaine Elders in euery citie, as I had appointed thee.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_6" GUID="18199361-53B2-54A1-BAB3-025AFEDB6607"><num>6</num><content><p>If any be blamelesse, the husband of one wife, hauing faithfull children, not accused of riot, or vnruly.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_7" GUID="5C776D2D-33CF-5D25-BE62-060D5D1A46E3"><num>7</num><content><p>For a Bishop must be blameles, as the steward of God: not selfewilled, not soone angry, not giuen to wine, no striker, not giuen to filthie lucre,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_8" GUID="343B9EE9-A595-5EC1-95E5-CE4D3EF9A00F"><num>8</num><content><p>But a louer of hospitality, a louer of good men, sober, iust, holy, temperate,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_9" GUID="1B6921EC-B2F7-5178-8653-99005892FDE4"><num>9</num><content><p>Holding fast the faithfull word, as hee hath beene taught, that he may bee able by sound doctrine, both to exhort and to conuince the gainsayers.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_10" GUID="C2E8CA40-7FC1-50AD-A6E0-B512E216F46A"><num>10</num><content><p>For there are many vnruly and vaine talkers and deceiuers, specially they of the circumcision:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_11" GUID="8B26185A-EFA6-5CC9-9335-4DCD24F18E4C"><num>11</num><content><p>Whose mouthes must be stopped, who subuert whole houses, teaching things which they ought not, for filthie lucres sake.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_12" GUID="7ECE140A-F9D0-5300-913A-A44E4BF32454"><num>12</num><content><p>One of themselues, euen a Prophet of their owne, said: The Cretians are alway lyers, euill beasts, slow bellies.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_13" GUID="A0B95618-FF43-5A8C-BB31-7C622A02D7A7"><num>13</num><content><p>This witnesse is true: wherefore rebuke them sharpely that they may be sound in the faith;</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_14" GUID="5A7AD7E3-8136-5D2E-B0CD-0E69759D1307"><num>14</num><content><p>Not giuing heede to Iewish fables, and commandements of men that turne from the trueth.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_15" GUID="799911EC-6B7A-53CB-8AC2-4C71B9CEC7BB"><num>15</num><content><p>Unto the pure all things are pure, but vnto them that are defiled, and vnbeleeuing, is nothing pure: but euen their mind and conscience is defiled.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_1__vrs_16" GUID="9216FD08-55BE-5635-8AE1-9245807D503B"><num>16</num><content><p>They professe that they know God; but in workes they deny him, being abominable, and disobedient, and vnto euery good worke reprobate.</p></content></hcontainer>
+</hcontainer>
+<hcontainer name="chapter" eId="chp_2" GUID="762C8EF4-CE13-524B-B809-598F05203B03"><num>CHAP. II.</num>
+<hcontainer name="verse" eId="chp_2__vrs_1" GUID="C2C1EE3B-FA48-5326-B4CD-E9D6F883FB66"><num>1</num><content><p>But speake thou the things which become sound doctrine:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_2" GUID="C43ED348-220E-5D5C-99D4-00DCEF311041"><num>2</num><content><p>That the aged men be sober, graue, temperate, sound in faith, in charitie, in patience.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_3" GUID="6B1D4954-02DB-51EF-AE87-AFE23E82F902"><num>3</num><content><p>The aged women likewise that they be in behauiour as becommeth holinesse, not false accusers, not giuen to much wine, teachers of good things,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_4" GUID="E96888BE-281B-54FD-BF40-4BE39D42700E"><num>4</num><content><p>That they may teach the young women to bee sober, to loue their husbands, to loue their children,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_5" GUID="486E1C70-0900-50C1-A008-F7F76BA19ACA"><num>5</num><content><p>To be discreet, chaste, keepers at home, good, obedient to their own husbands, that the word of God bee not blasphemed.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_6" GUID="48C8A84C-4ED1-5ECE-AA0B-03339F0A33D8"><num>6</num><content><p>Yong men likewise exhort, to bee sober minded.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_7" GUID="E0BC9C86-7BB7-5A38-85E5-034BD7686E77"><num>7</num><content><p>In all things shewing thy selfe a patterne of good workes: in doctrine shewing vncorruptnesse, grauity, sinceritie,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_8" GUID="12F3B420-2EA6-56C2-A23A-43F0A539298C"><num>8</num><content><p>Sound speech that cannot be condemned, that hee that is of the contrarie part, may bee ashamed, hauing no euill thing to say of you.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_9" GUID="A904F854-4472-5C10-BA4C-F618F9DED653"><num>9</num><content><p>Exhort seruants to be obedient vnto their own masters, and to please them well in all things, not answering againe:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_10" GUID="638A3CFB-3759-596B-A5BD-FA9D4596E7EC"><num>10</num><content><p>Not purloyning, but shewing all good fidelitie, that they may adorne the doctrine of God our Sauiour in all things.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_11" GUID="252D64E3-F651-5C86-AB37-DB603B9DD0C8"><num>11</num><content><p>For the grace of God that bringeth saluati&amp;#333;, hath appeared to all men,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_12" GUID="C28B0144-50D7-52BD-8421-8C0A0A1EAA19"><num>12</num><content><p>Teaching vs that denying vngodlinesse and worldly lusts we should liue soberly, righteously and godly in this present world,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_13" GUID="0B2474F0-0D07-525B-8C11-8F853AC21143"><num>13</num><content><p>Looking for that blessed hope, and the glorious appearing of the great God, and our Sauiour Iesus Christ,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_14" GUID="C8502C77-7ABA-5D94-A9D0-AA8F89F95A26"><num>14</num><content><p>Who gaue himselfe for vs, that he might redeeme vs from all iniquitie, and purifie vnto himselfe a peculiar people, zealous of good workes.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_2__vrs_15" GUID="1B969F0E-BBE9-5DE7-A933-52FCA6CFDECF"><num>15</num><content><p>These things speake and exhort, and rebuke with all authoritie. Let no man despise thee.</p></content></hcontainer>
+</hcontainer>
+<hcontainer name="chapter" eId="chp_3" GUID="BA867A0D-F827-582D-8581-58E4B67543CC"><num>CHAP. III.</num>
+<hcontainer name="verse" eId="chp_3__vrs_1" GUID="6B2B63FF-142D-5151-9D5B-0A00E3BF5364"><num>1</num><content><p>Put them in minde to bee subiect to Principalities &amp; Powers, to obey magistrates, to be ready to euery good worke,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_2" GUID="44719F38-562D-5D8D-A8E0-57E7189BD12C"><num>2</num><content><p>To speake euill of no man, to bee no brawlers, but gentle, shewing all meekenesse vnto all men.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_3" GUID="1C4AE19E-6857-5553-B38D-7B06C40EAAE8"><num>3</num><content><p>For we our selues also were sometimes foolish, disobedient, deceiued, seruing diuers lusts and pleasures, liuing in malice and enuy, hatefull, and hating one another.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_4" GUID="9E316C0B-544B-5E33-8923-D5EF88D34B14"><num>4</num><content><p>But after that the kindnesse and loue of God our Sauiour toward man appeared,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_5" GUID="98737A40-F5F0-5B2D-BD53-210DA04E7341"><num>5</num><content><p>Not by workes of righteousnesse which wee haue done, but according to his mercy he saued vs, by the washing of regeneration, and renewing of the holy Ghost,</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_6" GUID="B4EC31C8-AF84-539E-A834-8EA0B5DE7D15"><num>6</num><content><p>Which hee shed on vs abundantly, through Iesus Christ our Sauiour:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_7" GUID="C4979C8C-A17F-5DEB-825B-CB6FDBC7554D"><num>7</num><content><p>That being iustified by his grace, we should bee made heires according to the hope of eternall life.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_8" GUID="417BE455-EA0B-544D-98F7-258DEB0EAB2D"><num>8</num><content><p>This is a faithfull saying, and these things I will that thou affirme constantly, that they which haue beleeued in God, might be carefull to maintaine good works: these things are good and profitable vnto men.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_9" GUID="B0BBF7A2-37F4-5ABB-9EE0-E9634C7CD559"><num>9</num><content><p>But auoyd foolish questions, and genealogies, and contentions, and striuings about the lawe; for they are vnprofitable and vaine.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_10" GUID="F8BAAF97-6F66-5FC5-B952-747FDA21E657"><num>10</num><content><p>A man that is an heretike, after the first and second admonition, reiect:</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_11" GUID="3A0BE14C-0AD2-5CAC-BB06-590431E1208C"><num>11</num><content><p>Knowing that hee that is such, is subuerted, and sinneth, being condemned of himselfe.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_12" GUID="8A0B8DF1-89D4-55F6-AB1A-0216609C38D8"><num>12</num><content><p>When I shall send Artemas vnto thee, or Tychicus, be diligent to come vnto mee to Nicopolis: for I haue determined there to winter.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_13" GUID="3407DA90-178C-5EF1-8E66-DFA9544D0CDF"><num>13</num><content><p>Bring Zenas the Lawyer, and Apollos, on their iourney diligently, that nothing be wanting vnto them.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_14" GUID="54477E44-CA72-5434-9EB9-A510F38C7A23"><num>14</num><content><p>And let ours also learne to maintaine good workes for necessarie vses, that they be not vnfruitfull.</p></content></hcontainer>
+<hcontainer name="verse" eId="chp_3__vrs_15" GUID="21DC2206-7621-58EC-890D-3E4188F86720"><num>15</num><content><p>All that are with mee salute thee. Greete them that loue vs in the faith. Grace be with you all. Amen.</p></content></hcontainer>
+</hcontainer>
+</mainBody>
+</doc>
+</akomaNtoso>
